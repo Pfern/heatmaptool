@@ -1,5 +1,4 @@
 # Heatmaps from sequencing results
-# by Spela Konjar, the specialist in R, and @pfern
 
 if (!require("gplots")) {
   install.packages("gplots", dependencies = TRUE)
